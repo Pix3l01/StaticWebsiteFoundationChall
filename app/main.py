@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     response = make_response(render_template('index.html'))
-    response.headers['Refresh'] = '86400; url=http://127.0.0.1:5000/o1SfuSXpptIk1p8U0qISobkrYwXSILflr6ZxTsmF?p=banana'
+    response.headers['Refresh'] = '86400; url=/o1SfuSXpptIk1p8U0qISobkrYwXSILflr6ZxTsmF?p=banana'
     return response
 
 
