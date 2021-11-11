@@ -14,7 +14,7 @@ def index():
 def flag():
     p = request.args.get('p', type=str)
     if p == 'banana':
-        return 'flag{l00k_at_Th3_he4d3rs!}'
+        return 'ptm{l00k_at_Th3_he4d3rs!}'
     else:
         return 'Ah ah ah, you didn\'t say the magic word'
 
