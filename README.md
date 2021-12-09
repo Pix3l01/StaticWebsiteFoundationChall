@@ -1,4 +1,4 @@
-# m0leCon mini 2021 challenge
+# m0leCon beginner CTF 2021 challenge
 
 m0leCon beginner CTF 2021 was a beginner-friendly capture the flag competition organized by 
 [Politecnico di Torino](https://www.polito.it/)'s cybersecurity student team 
